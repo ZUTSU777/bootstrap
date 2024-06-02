@@ -14,3 +14,7 @@
 .blog-container h1{
  font-size: 35px;
 }
+
+.nav-item i{
+    color:grey ;
+}
