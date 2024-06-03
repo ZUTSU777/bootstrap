@@ -1,0 +1,20 @@
+.mycarousel img{
+    height: 500px;
+}
+
+.about img{
+    height: 100%;
+    width: 300px;
+}
+
+.nav-item{
+    font-size: 15px;
+}
+
+.blog-container h1{
+ font-size: 35px;
+}
+
+.nav-item i{
+    color:grey ;
+}
